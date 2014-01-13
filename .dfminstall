@@ -1,1 +1,7 @@
 README.md skip
+.profile skip
+.config recurse
+.config/openbox recurse
+.config/tint2 recurse
+.config/terminator recurse
+
